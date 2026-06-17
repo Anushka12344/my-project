@@ -1,4 +1,4 @@
-My GitHub Learning Repository
+My GitHub Learning Repository.
   welcome to my GitHub repository
   I am learning web development and programming.This repository contains my practice projects and assigments using:
     HTML
